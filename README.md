@@ -1,6 +1,4 @@
-# juejin 默认主题
-
-主题列表：https://github.com/xitu/juejin-markdown-themes
+# juejin 浅蓝色主题
 
 ## License
 

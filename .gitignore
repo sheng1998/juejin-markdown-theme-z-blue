@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+.history/
+dist/
+gallery/themes.js
+.idea/
+yarn.lock
